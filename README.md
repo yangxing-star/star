@@ -1,4 +1,2 @@
-star
-====
-
-This is the first of my own GitHub
+This is my home.
+I think I have a good code to put in, and everyone to share!
